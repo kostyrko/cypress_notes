@@ -1,8 +1,8 @@
-## Źródła warte przeczytania / blogia warte śledzenia
+# cypress_notes
+
+Notatki skupiające się na testach e2e przy pomocy [Cypress.io](https://www.cypress.io/)
 
 ### Wpisy Tematyczne:
-
-
 
 [Burning Tests with cypress-grep](https://glebbahmutov.com/blog/burning-tests/) - burning -> przechodzenie tego samego testu wielokrotnie // cypress-grep wtyczka umożliwiająca wielokrotne wykonywanie jednego testu w izolacji
 
@@ -45,3 +45,4 @@
 #### Cypress rozszerzenia
 
 [Cypress Testing Library](https://www.npmjs.com/package/@testing-library/cypress) / [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro/)
+
